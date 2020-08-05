@@ -1,0 +1,28 @@
+#table {
+    background-color: #060CE9; 
+    max-width: 720px;
+}
+
+
+tr {
+    width: 120px;
+    height: 9em;
+    max-width: 120px;
+    max-height: 120px;
+    padding: 1em;
+    font-family: Copse, serif; 
+    font-size: 9pt;
+
+}
+
+th {
+    padding: 1em;
+    width: 120px;
+    height: 4em;
+    max-width: 120px;
+    max-height: 120px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: darkgoldenrod 1px 1px;
+
+}
